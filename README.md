@@ -11,7 +11,7 @@ A simple GUI(Graphic user interface) client-server chat application that allows 
 - Permanent storage capability (AKA database supported)
 
                             
-                                                   How it will work
+                                                      How it works
                                                               
  Upon completion, this application will be similar to the "TeamViewer" application on windows in that it will request a serverIP (i.e. computer IP with the server application) from the user on the server end and send this over to the user on the client end. Once the client has this IP address he will then use this to connect with the server machine. Only then can their conversation begin.                                                                
                                                                
